@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &4300000
+Mesh:
+  m_ObjectHideFlags: 0
+  m_Name: Duck_Body001
+  serializedVersion: 8
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 102
+    topology: 0
+    baseVertex: 0
+    firstVertex: 0
+    vertexCount: 52
+    localAABB:
+      m_Center: {x: 0, y: -1.8626451E-08, z: 3.7252903E-09}
+      m_Extent: {x: 0.15170805, y: 0.08888097, z: 0.0962304}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes:
+  m_RootBoneNameHash: 0
+  m_MeshCompression: 3
+  m_IsReadable: 0
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexFormat: 0
+  m_IndexBuffer: 000001000200030001000000040001000300040005000100060007000000060008000700070008000900090008000a0006000b00080006000c000b000d0001000e000d000e000f00100001000d0010000d00110010001200010001001200130010001400120010001500140016001700180019001700160019001a00170019001b001a001c001d001e001d001c001f00200021002200210020002300240025002600250024002700280029002a00290028002b002c002d002e002d002c002f00300031003200310030003300
+  m_Skin: []
+  m_VertexData:
+    m_CurrentChannels: 0
+    m_VertexCount: 0
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    m_DataSize: 0
+    _typelessdata:
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 156
+      m_Range: 0.3034161
+      m_Start: -0.15170805
+      m_Data: 7cacbc8b61d4ecc20735bbfcbff22effafbccbffd4ecc2c7ca3bfdbff22e7cac4cecff2b13cdc7ca4403b032b100acbc9361d410fd3f35bbfc4f0dd17c50432c1fd410cd07353bf141cd2e0050b31300d410cb073544ffbf32d17cac4cb461d410fdffca44ff4f0dd100ac4c2c00d4ec040035c402b0f24eff53b3cbff2b13fd3f3544ffbff22e7cac4c341fd410cb073544f3b132b17c50b30b1f2befc4c7cabbf041cd4e7c50b313002befc4c7ca3b0140cd4e7cac4c2c00d410cb0735c402b032b1
+      m_BitSize: 10
+    m_UV:
+      m_NumItems: 104
+      m_Range: 0.5656879
+      m_Start: 0.2029105
+      m_Data: ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00
+      m_BitSize: 8
+    m_Normals:
+      m_NumItems: 104
+      m_Range: 1.999748
+      m_Start: -0.999874
+      m_Data: e00f7ee0077ee0077e20f8fd20087ee00782200802200002200002e0077ee0077e200082e00782200882000880000880200882200882000880000880200002200002e00ffee00ffee00ffee0fffd
+      m_BitSize: 6
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 52
+      m_Data: 441f800e0f0000
+      m_BitSize: 1
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 102
+      m_Data: 40200c014004035104c60118c87120498228c68218ccd2044ee33c50d0404d044941204d10254115655d5876599976659bc6755ec77d602886e0489666499e68aaa6e8cab66ecbbe702cc7f00c
+      m_BitSize: 6
+    m_UVInfo: 5
+  m_LocalAABB:
+    m_Center: {x: 0, y: -1.8626451E-08, z: 3.7252903E-09}
+    m_Extent: {x: 0.15170805, y: 0.08888097, z: 0.0962304}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh:
+  m_BakedTriangleCollisionMesh:
+  m_MeshOptimized: 1

@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &4300000
+Mesh:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: UAS_SMHP_candy_bar_001_0
+  serializedVersion: 8
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 72
+    topology: 0
+    firstVertex: 0
+    vertexCount: 48
+    localAABB:
+      m_Center: {x: -0.000000007450581, y: 0.059320197, z: -0.00000028312206}
+      m_Extent: {x: 0.09886699, y: 0.059321307, z: 0.33614784}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes: 
+  m_RootBoneNameHash: 0
+  m_MeshCompression: 1
+  m_IsReadable: 0
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexBuffer: 
+  m_Skin: []
+  m_VertexData:
+    m_CurrentChannels: 0
+    m_VertexCount: 0
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    m_DataSize: 0
+    _typelessdata: 
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 144
+      m_Range: 0.6722957
+      m_Start: -0.33614814
+      m_Data: 5a5a2a00800e0f6f5a5a0200e8f0f0a6a5e5ff7ff1f0a0a5a5feff170f0f5a5a4a2dad0e0fafa5a5d1d21a0f0fa6a5152dadf1f0605a5ad4d2eaf0f05a5a2a00800e0fafa5a5d4d2eaf0f0a6a5452dad0e0f6f5a5a0200e8f0f0a6a52500800e0f6f5a5ad4d2eaf0f0a6a5152dadf1f0605a5afeff170f0fa6a5e5ff7ff1f0605a5ad1d21a0f0f5a5a1a2dadf1f0a0a5a5feff170f0f5a5aeaff7ff1f0a0a5a5d1d21a0f0f5a5a4a2dad0e0fafa5a50200e8f0f0e2e1390f8fffffefe161f3f0f8ffff1e1ef60e8f0000201e9eeff0080000e2e1491e9effff2f1e9ee0e10900001e1e061e9e0000e0e161e4e1f9ffffe2e1390f8fffff2f1e9ee4e1f9ffff1e1e461e9effffefe161f3f0f8ffff1e1e360f8fffffefe161e4e1f9ffff1e1e061e9e0000e0e161eff00800001e1ef60e8f0000e0e161e0e1090000e2e1091e9e0000201e9eeff0080000e2e1f90e8f0000201e9ee0e1090000e2e1491e9effff2f1e9ef3f0f8ffff
+      m_BitSize: 20
+    m_UV:
+      m_NumItems: 96
+      m_Range: 0.65625
+      m_Start: 0.30273438
+      m_Data: 310cffff310c30fcc30030fcc300ffffc300ffff310cffff310c30fcc30030fc6e0bffffb70dffffb70d30fc6e0b30fc310cf3fc310caafac300aafac300f3fc6e0bffffb70dffffb70d30fc6e0b30fc310cf3fc310caafac300aafac300f3fcf40cfffff40c30fc000030fc0000ffff0000fffff40cfffff40c30fc000030fc0000ffffc300ffffc30030fc000030fcf40cf3fcf40c30fc000030fc0000f3fc0000ffffc300ffffc30030fc000030fcf40cf3fcf40c30fc000030fc0000f3fc
+      m_BitSize: 16
+    m_Normals:
+      m_NumItems: 96
+      m_Range: 1.9999847
+      m_Start: -0.9999924
+      m_Data: 800080008000800080ff80ff80ff80ff808080808080808000800080008000808080808080808080ff80ff80ff80ff80800080008000800080ff80ff80ff80ff808080808080808000800080008000808080808080808080ff80ff80ff80ff80
+      m_BitSize: 8
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 48
+      m_Data: 000f00000f00
+      m_BitSize: 1
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 72
+      m_Data: 402000c2401406611c48a220cac2340ee33c502441d2445516655d58a661dac6751ee77d602882e2489626699e68aaa2eacab62eebbe
+      m_BitSize: 6
+    m_UVInfo: 5
+  m_LocalAABB:
+    m_Center: {x: -0.000000007450581, y: 0.059320197, z: -0.00000028312206}
+    m_Extent: {x: 0.09886699, y: 0.059321307, z: 0.33614784}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh: 
+  m_BakedTriangleCollisionMesh: 
+  m_MeshOptimized: 1

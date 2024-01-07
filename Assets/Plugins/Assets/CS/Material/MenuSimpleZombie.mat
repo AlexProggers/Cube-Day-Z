@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MenuSimpleZombie
+  m_Shader: {fileID: 4800000, guid: a83f68526a15ebe4cbd9860360799d7a, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BloodMask:
+        m_Texture: {fileID: 2800000, guid: 4883690903625dc46b12dc76bf523706, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BodyPartMask:
+        m_Texture: {fileID: 2800000, guid: bb46ef3e474cfe44a80bb3282b81d25a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BodyTex:
+        m_Texture: {fileID: 2800000, guid: 420844d83b71d7d4281d750fa87719ce, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _HeadTex:
+        m_Texture: {fileID: 2800000, guid: 420844d83b71d7d4281d750fa87719ce, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _LegsTex:
+        m_Texture: {fileID: 2800000, guid: 420844d83b71d7d4281d750fa87719ce, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: d9d461e3f15648149b97609d1d14c57e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - V_CW_D_OPTIONS: 0
+    - V_CW_TAG: 0
+    - V_CW_W_OPTIONS: 0
+    - _Cutoff: 0.5
+    - _ShakeBending: 1
+    - _ShakeDisplacement: 1
+    - _ShakeTime: 1
+    - _ShakeWindspeed: 1
+    - _V_CW_Camera_Bend_Offset: 0
+    - _V_CW_Emission_Strength: 1
+    - _V_CW_Fog_Density: 1
+    - _V_CW_Fog_End: 100
+    - _V_CW_Fog_Start: 0
+    - _V_CW_IBL_Contrast: 1
+    - _V_CW_IBL_Intensity: 1
+    - _V_CW_Rim_Bias: 0.2
+    - _V_CW_X_Bend_Size: 0
+    - _V_CW_Y_Bend_Size: 0
+    - _V_CW_Z_Bend_Bias: 0
+    - _V_CW_Z_Bend_Size: 0
+    m_Colors:
+    - _BloodColor: {r: 0.77205884, g: 0.17610145, b: 0.039738316, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _ReflectColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SkinColor: {r: 0.75648785, g: 0.7921713, b: 0.9705882, a: 1}
+    - _V_CW_Emission_Color: {r: 1, g: 1, b: 1, a: 1}
+    - _V_CW_Fog_Color: {r: 1, g: 1, b: 1, a: 1}
+    - _V_CW_Rim_Color: {r: 1, g: 1, b: 1, a: 1}

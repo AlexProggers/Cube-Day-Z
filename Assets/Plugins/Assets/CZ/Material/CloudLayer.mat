@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: CloudLayer
+  m_Shader: {fileID: 30, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: BUMPED GAMMA LDR
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _CloudDensity: 0.5
+    - _CloudScale1: 50
+    - _CloudScale2: 13
+    - _CloudShading: 0.03
+    - _CloudSharpness: 0.24
+    - _CloudSpeed1: 0.5
+    - _CloudSpeed2: 1
+    - _CloudTone: 1
+    - _OneOverGamma: 39.53
+    - _cloudCover: 1
+    - _cloudDensity: 1
+    - _cloudScale1: 3
+    - _cloudScale2: 7
+    - _cloudShading: 0.5
+    - _cloudSharpness: 1
+    - _cloudSpeed1: 0.5
+    - _cloudSpeed2: 1
+    - _cloudTint: 1
+    - _cloudTone: 1.5
+    - _gamma: 1
+    - _oneOverGamma: 1
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 0}
+    - _LightColor: {r: 1, g: 1, b: 1, a: 1}
+    - _LightDirection: {r: -0.39528695, g: -0.91847634, b: 0.0122311115, a: 0}
+    - _WindDirection: {r: 2555, g: 1, b: 2555, a: 1}
+    - _cloudColor: {r: 0, g: 0, b: 0, a: 1}
+    - _lightColor: {r: 0.93126804, g: 0.9207287, b: 0.8907966, a: 0.9644548}
+    - _lightDirection: {r: -0.39528695, g: -0.91847634, b: 0.0122311115, a: 0}
+    - _nightColor: {r: 0, g: 0, b: 0, a: 0}
+    - _sunColor: {r: 0.8634269, g: 0.8115209, b: 0.7621396, a: 0.8634269}
+    - _sunDirection: {r: -0.39528695, g: -0.91847634, b: 0.0122311115, a: 0}
+    - _windDirection: {r: 2, g: 1, b: 2, a: 1}

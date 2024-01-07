@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - gun
+  - Usable
+  - NoHitMark
+  - Metal
+  - Wood
+  - Flesh
+  - Water
+  - NPC
+  - Glass
+  - Climbable
+  - HerdChild
+  - ForAction
+  - Zombie
+  - Plant
+  - Dirt
+  - Car Collider
+  - Node
+  - Ragdoll
+  - CarDoor
+  - RedBtn
+  - Chest
+  - Zombie Model
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - MapSpawn
+  - StaticObjects
+  - Terrain
+  - Player
+  - 12
+  - Mob
+  - 14
+  - TankCollider
+  - Wheel
+  - Bullet
+  - PlayerTrigger
+  - SmallDetails
+  - SkyDome
+  - Plants
+  - PlayerNoiseArea
+  - HerdSim
+  - DeadPlayer
+  - PhotonPlayer
+  - Destructed
+  - UILayer
+  - Destructible
+  - ZombieAttackArea
+  - DropItem
+  - TrapArea
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

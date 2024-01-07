@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &4300000
+Mesh:
+  m_ObjectHideFlags: 0
+  m_Name: icecream_shop_door_right
+  serializedVersion: 8
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 60
+    topology: 0
+    baseVertex: 0
+    firstVertex: 0
+    vertexCount: 32
+    localAABB:
+      m_Center: {x: 0.03500061, y: -2.1557984, z: -0.9922659}
+      m_Extent: {x: 0.035, y: 2.155798, z: 0.9922659}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes:
+  m_RootBoneNameHash: 0
+  m_MeshCompression: 3
+  m_IsReadable: 0
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexFormat: 0
+  m_IndexBuffer: 0000010002000000020003000400050006000400060007000800040007000800070009000a000b000c000a000c000d000b000e000c000b000f000e00100011001200100012001300110014001200110015001400160017001800160018001900190018001a0019001a001b001c001d001e001c001e001f00
+  m_Skin: []
+  m_VertexData:
+    m_CurrentChannels: 0
+    m_VertexCount: 0
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    m_DataSize: 0
+    _typelessdata:
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 96
+      m_Range: 4.381597
+      m_Start: -4.3115964
+      m_Data: ffbffffeffef7ff8fefb1fbefffefbff07f6feffefbffffefbefbf1fd8fbff03f0fefb00bcfffffb1ffe1fd887ef07f6e1fbef7ff83e001ffe0fc087efbfffe1fb817df87e60efbffffefbef03f0fefb007cf8fffb1ffefffefbff07f6feff817df83f00efff0fc087ff03f0e1ff00bcff3e00efbf0fc087
+      m_BitSize: 10
+    m_UV:
+      m_NumItems: 64
+      m_Range: 0.46811885
+      m_Start: 0.5260801
+      m_Data: 38fbdffeb7e3ec3815ce8eb3e35438000ef0b7ff557fd5dffe07fc017ffb5f8553e1ec38c01ff0b7e3ec38d55f8503fc017f000e8003fc01
+      m_BitSize: 7
+    m_Normals:
+      m_NumItems: 64
+      m_Range: 1.999748
+      m_Start: -0.999874
+      m_Data: e00ffee00ffe2008822008822008822008822008822008820008800008800008803ff8833ff8833ff883200002200002
+      m_BitSize: 6
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 32
+      m_Data: f0030000
+      m_BitSize: 1
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 60
+      m_Data: 2008200629869883c84127a9c5146bcbb1f51c8c12ca19a98c95da8b2dce19ebac37ef9efb0f
+      m_BitSize: 5
+    m_UVInfo: 5
+  m_LocalAABB:
+    m_Center: {x: 0.03500061, y: -2.1557984, z: -0.9922659}
+    m_Extent: {x: 0.035, y: 2.155798, z: 0.9922659}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh:
+  m_BakedTriangleCollisionMesh:
+  m_MeshOptimized: 1
